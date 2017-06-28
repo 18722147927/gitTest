@@ -1,0 +1,6 @@
+1、直接利用git创建和上传本地项目：https://github.com/18722147927/gitTest.git
+
+
+2、利用TortoiseGit小乌龟将项目上传到GitHub网站：http://blog.csdn.net/xiaomogg/article/details/51903004
+
+3、视频教学如何使用git小乌龟建立项目仓库及代码上传：http://www.le.com/ptv/vplay/26957311.html#vid=26957311
